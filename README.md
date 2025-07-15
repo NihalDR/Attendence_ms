@@ -91,7 +91,7 @@ A robust, bilingual, real-time face recognition-based attendance system using YO
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yashbisht077/DeepTrack.git
+   git clone https://github.com/NihalDR/Attendence_ms
    ```
 
 2. **Install requirements:**
