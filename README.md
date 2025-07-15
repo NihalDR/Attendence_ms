@@ -2,8 +2,6 @@
 
 A robust, bilingual, real-time face recognition-based attendance system using YOLOv8, DeepFace, TensorFlow, and OpenCV. This project supports both **real-time webcam-based** tracking and **video file-based** pipelines with Region of Interest (ROI), logging, frame skipping, and CSV-based attendance.
 
-![preview](https://github.com/yashbisht077/DeepTrack/blob/main/Image.png?raw=true)
-
 ---
 
 ## 🚀 Project Structure
@@ -123,13 +121,6 @@ A robust, bilingual, real-time face recognition-based attendance system using YO
 ## 📝 Sample Output
 
 - ✅ `final_attendance.csv`:
-```
-Name,Time
-Shankar Singh,2025-07-12 09:43:21
-Anurag Singh,2025-07-12 09:44:12
-...
-```
-
 ---
 
 ## 📌 Future Improvements
@@ -143,12 +134,7 @@ Anurag Singh,2025-07-12 09:44:12
 
 ## 📧 Contact
 
-**Shankar Singh**  
-📍 BTech CSE AIML @ GEHU Bhimtal  
-📧 [shankarbisht1224@gmail.com]
+**Nihal DR**  
+📍 BE AIDS @ CMRIT  
+📧 [nihaldr77@gmail.com]
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and contribute!
